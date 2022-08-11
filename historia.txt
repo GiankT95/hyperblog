@@ -1,3 +1,5 @@
 Hola esta es mi historia.
 
 Estoy aprendiendo a programar para cumplir mi sueño de ser desarrollador en Estados Unidos.
+
+Hoy hablaremos de su vida y a lo que se dedica.
